@@ -10,6 +10,8 @@ Reproducibility tutorial
 
 [![Join the chat at https://gitter.im/KirstieJane/STEMMRoleModels](https://badges.gitter.im/KirstieJane/STEMMRoleModels.svg)](https://gitter.im/KirstieJane/STEMMRoleModels?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dknaumov-em/data71011-binder/HEAD)
+
 ## Welcome!
 
 First and foremost, Welcome! :tada: Willkommen! :confetti_ball: Bienvenue! :balloon::balloon::balloon:
